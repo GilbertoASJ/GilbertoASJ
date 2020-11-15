@@ -8,10 +8,10 @@
 
 ### 💻 Desenvolvedor Front-End
 
-- Cursando o último ano do Ensino Médio 📚
+- Cursando o último ano do Ensino Médio 👨‍🎓
 
 - Conhecimentos em HTML5, CSS3, Sass, Bootstrap, Wordpress e Javascript 🚀
 
-- Estudando e expandindo conhecimento no Front-End e Frameworks
+- Estudando e expandindo conhecimento no Front-End e Frameworks 📚
 
 
