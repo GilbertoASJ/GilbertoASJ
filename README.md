@@ -2,6 +2,7 @@
 
 # Gilberto Alves
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/gilberto-alves-377414199/)](https://www.linkedin.com/in/gilberto-alves-377414199/)
+[![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=black&link=https://app.rocketseat.com.br/me/gilberto-alves-de-sousa-junior-1571157922)](https://app.rocketseat.com.br/me/gilberto-alves-de-sousa-junior-1571157922)
 
 <hr>
 
