@@ -7,7 +7,7 @@
 
 <hr>
 
-### 💻 Front-End Developer
+### Front-End Developer 💻
 
 - Studying the last year of high school 👨‍🎓
 
