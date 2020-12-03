@@ -11,7 +11,7 @@
 
 - Studying the last year of high school 👨‍🎓
 
-- Knowledge in HTML5, CSS3, Sass, Bootstrap, Wordpress, Git and Javascript 🚀
+- Knowledge in HTML5, CSS3, Sass, Bootstrap, Wordpress, Git/GitHub and Javascript 🚀
 
 - Studying and expanding knowledge in Front-End and Frameworks 📚
 
