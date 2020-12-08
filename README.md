@@ -10,18 +10,17 @@
 
 <hr>
 
-### Front-End Developer 💻
+<h3 align="center">Front-End Developer 💻</h3>
 
-- Studying the last year of high school 👨‍🎓
+<p align="center">
+  Studying the last year of high school 👨‍🎓<br>
+  Knowledge in HTML5, CSS3, Sass, Bootstrap, Wordpress, Git/GitHub and Javascript 🚀<br>
+  Studying and expanding knowledge in Front-End and Frameworks 📚<br>
+</p>
 
-- Knowledge in HTML5, CSS3, Sass, Bootstrap, Wordpress, Git/GitHub and Javascript 🚀
-
-- Studying and expanding knowledge in Front-End and Frameworks 📚
-
-
-
-
-<img align="right">![Gilberto's github stats](https://github-readme-stats.vercel.app/api?username=GilbertoASJ&show_icons=true&theme=dark)</img>
+<div align="center">
+![Gilberto's github stats](https://github-readme-stats.vercel.app/api?username=GilbertoASJ&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoASJ&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
