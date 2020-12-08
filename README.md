@@ -1,4 +1,4 @@
-<h1> Hello, welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+# Hello, welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 # Gilberto Alves
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/gilberto-alves-377414199/)](https://www.linkedin.com/in/gilberto-alves-377414199/)
@@ -14,5 +14,11 @@
 - Knowledge in HTML5, CSS3, Sass, Bootstrap, Wordpress, Git/GitHub and Javascript 🚀
 
 - Studying and expanding knowledge in Front-End and Frameworks 📚
+
+
+
+
+<img align="right">![Gilberto's github stats](https://github-readme-stats.vercel.app/api?username=GilbertoASJ&show_icons=true&theme=dark)</img>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoASJ&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
