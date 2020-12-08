@@ -18,7 +18,13 @@
   Knowledge in HTML5, CSS3, Sass, Bootstrap, Wordpress, Git/GitHub and Javascript 🚀<br>
 </p>
 
-<img align="center">![Gilberto's github stats](https://github-readme-stats.vercel.app/api?username=GilbertoASJ&show_icons=true&theme=dark)</img>
+<div align="center">
+
+![Gilberto Alves's github stats](https://github-readme-stats.vercel.app/api?username=GilbertoASJ&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoASJ&layout=compact&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
+
+   </div>
 
 
 
