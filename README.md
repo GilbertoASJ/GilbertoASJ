@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, welcome to my profile, I'm Gilberto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center"> Hello, I'm Gilberto, welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <div align="center">
   
@@ -15,7 +15,7 @@
 <p align="center">
   Studying the last year of high school 👨‍🎓<br>
   Studying and expanding knowledge in Front-End and Frameworks 📚<br>
-  Knowledge in HTML5, CSS3, Sass, Bootstrap, Wordpress, Git/GitHub and Javascript 🚀<br>
+  Knowledge in HTML5, CSS3, Sass, Bootstrap, Javascript, Git/GitHub and Wordpress 🚀<br>
 </p>
 
 <div align="center">
