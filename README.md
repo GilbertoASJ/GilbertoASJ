@@ -13,8 +13,8 @@
 <h3 align="center">Front-End Developer 💻</h3>
 
 <p align="center">
-  Studying the last year of high school 👨‍🎓<br>
-  Studying and expanding knowledge in Front-End and Frameworks 📚<br>
+  Studying the last year of high school<br>
+  Studying and expanding knowledge in Front-End and Frameworks<br>
 </p>
 
 <h3 align="center">Skills and Tools 👨‍💻</h3>
