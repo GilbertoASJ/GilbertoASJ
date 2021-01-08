@@ -15,17 +15,8 @@
 <p align="center">
   Studying the last year of high school 👨‍🎓<br>
   Studying and expanding knowledge in Front-End and Frameworks 📚<br>
-  Knowledge in HTML5, CSS3, Sass, Bootstrap, Javascript, Git/GitHub and Wordpress 🚀<br>
 </p>
 
-<div align="center">
-
-![Gilberto Alves's github stats](https://github-readme-stats.vercel.app/api?username=GilbertoASJ&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoASJ&layout=compact&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
-
-   </div>
-   
 <h3 align="center">Skills and Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -40,6 +31,10 @@
 
 
 
+<div align="center">
 
+![Gilberto Alves's github stats](https://github-readme-stats.vercel.app/api?username=GilbertoASJ&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoASJ&layout=compact&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
 
+   </div>
