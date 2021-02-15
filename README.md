@@ -14,7 +14,6 @@
 <h3 align="center">Front-End Developer 💻</h3>
 
 <p align="center">
-  Studying the last year of high school 👨‍🎓<br>
   Studying and expanding knowledge in Front-End and Frameworks 📚<br>
   Knowledge in HTML5, CSS3, Sass, Bootstrap, Git/GitHub, Javascript and Wordpress 👨‍💻<br>
 </p>
