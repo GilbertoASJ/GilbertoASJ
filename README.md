@@ -14,8 +14,8 @@
 <h3 align="center">Front-End Developer 💻</h3>
 
 <p align="center">
-  Studying and expanding knowledge in Front-End and Frameworks 📚<br>
   In search of the first opportunity in the job market ✈️<br>
+  Studying and expanding knowledge in Front-End and Frameworks 📚<br>
   Knowledge in HTML5, CSS3, Sass, Bootstrap, Git/GitHub, Javascript and Wordpress 👨‍💻<br>
 </p>
 
