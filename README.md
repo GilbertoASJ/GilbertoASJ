@@ -15,6 +15,7 @@
 
 <p align="center">
   Studying and expanding knowledge in Front-End and Frameworks 📚<br>
+  In search of the first opportunity in the job market ✈️<br>
   Knowledge in HTML5, CSS3, Sass, Bootstrap, Git/GitHub, Javascript and Wordpress 👨‍💻<br>
 </p>
 
