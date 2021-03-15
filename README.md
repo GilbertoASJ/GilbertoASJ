@@ -1,31 +1,28 @@
-<h1 align="center"> Hello, I'm Gilberto, welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<img align="right" src="https://image.freepik.com/free-vector/coding-programmer-workspace-with-cactus-coffee-book-illustration-white-isolated-background_138676-1065.jpg" max-width="400px" width="400px" align="right">
 
-<div align="center">
+<br>
+
+<h2 align="left"> Hello, I'm Gilberto, welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+
+<h3>💻 Front-End Developer</h3>
+
+<p>✈️ In search of the first opportunity in the job market<br></p>
+<p>📚 Studying and expanding knowledge in Front-End and Frameworks <br></p>
+<p>👨‍💻 Knowledge in <strong>HTML5, CSS3, Javascript, ES6, OO, Sass, Bootstrap, Git/GitHub, and Wordpress </strong><br></p>
+
+<h3>📱 Social </h3>
+
+<div>
   
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/gilberto-alves-377414199/)](https://www.linkedin.com/in/gilberto-alves-377414199/)
 [![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=black&link=https://app.rocketseat.com.br/me/gilberto-alves-de-sousa-junior-1571157922)](https://app.rocketseat.com.br/me/gilberto-alves-de-sousa-junior-1571157922)
 [![https://portfolio-gsj.netlify.app/ Badge](https://img.shields.io/badge/-Portfólio-6633cc?style=flat-square&logo=DTube&logoColor=white&color=black&link=https://portfolio-gsj.netlify.app/)](https://portfolio-gsj.netlify.app/)
 
-
 </div>
-
-<hr>
-
-<h3 align="center">Front-End Developer 💻</h3>
-
-<p align="center">
-  In search of the first opportunity in the job market ✈️<br>
-  Studying and expanding knowledge in Front-End and Frameworks 📚<br>
-  Knowledge in HTML5, CSS3, Javascript, ES6, OO, Sass, Bootstrap, Git/GitHub, and Wordpress 👨‍💻<br>
-</p>
-
-
-<br>
-
-<div align="center">
-
-![Gilberto Alves's github stats](https://github-readme-stats.vercel.app/api?username=GilbertoASJ&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoASJ&layout=compact&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
-
-   </div>
+   
+<div>
+ <a href="https://github.com/GilbertoASJ/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GilbertoASJ&show_icons=true&theme=dark" style"max-width: 100%;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoASJ&layout=compact&theme=dark" style"max-width: 100%;" />
+ </a>
+</div>
