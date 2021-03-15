@@ -1,7 +1,5 @@
 <img align="right" src="https://image.freepik.com/free-vector/coding-programmer-workspace-with-cactus-coffee-book-illustration-white-isolated-background_138676-1065.jpg" max-width="400px" width="400px" align="right">
 
-<br>
-
 <h2 align="left"> Hello, I'm Gilberto, welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
 <h3>💻 Front-End Developer</h3>
