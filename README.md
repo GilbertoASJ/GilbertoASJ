@@ -2,13 +2,13 @@
 
 <br>
 
-<h2 align="left"> Hello, I'm Gilberto, welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+<h2 align="left"> Hello, I'm Gilberto, welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
 <h3>💻 Front-End Developer</h3>
 
-<p>✈️ In search of the first opportunity in the job market<br></p>
-<p>📚 Studying and expanding knowledge in Front-End and Frameworks <br></p>
-<p>👨‍💻 Knowledge in <strong>HTML5, CSS3, Javascript, ES6, OO, Sass, Bootstrap, Git/GitHub, and Wordpress </strong><br></p>
+- <p>✈️ In search of the first opportunity in the job market<br></p>
+- <p>📚 Studying and expanding knowledge in Front-End and Frameworks <br></p>
+- <p>👨‍💻 Knowledge in <strong>HTML5, CSS3, Javascript, ES6, OO, Sass, Bootstrap, Git/GitHub, and Wordpress </strong><br></p>
 
 <h3>📱 Social </h3>
 
