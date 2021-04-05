@@ -6,7 +6,7 @@
 
 - <p>✈️ In search of the first opportunity in the job market<br></p>
 - <p>📚 Studying and expanding knowledge in Front-End and Frameworks <br></p>
-- <p>👨‍💻 Knowledge in <strong>HTML5, CSS3, Javascript, ES6, OO, PHP, Sass, Bootstrap, Git/GitHub, and Wordpress </strong><br></p>
+- <p>👨‍💻 Skills: <strong>HTML5, CSS3, Javascript, ES6, OO, PHP, Sass, Bootstrap, Git/GitHub, and Wordpress </strong><br></p>
 
 <h3>📱 Social </h3>
 
