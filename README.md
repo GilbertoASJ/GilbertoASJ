@@ -4,8 +4,7 @@
 
 <h3>💻 Front-End Developer</h3>
 
-- <p>✈️ 18y, In search of the first opportunity in the job market<br></p>
-- <p>📚 Expanding knowledge in Front-End and Frameworks,<br> I'm studying: <strong>ReactJs, PHP and MVC</strong><br></p>
+- <p>✈️ 18y, expanding knowledge in Front-End and Frameworks,<br> I'm studying: <strong>ReactJs, PHP and MVC</strong><br></p>
 - <p>👨‍💻 Skills: <strong>HTML5, CSS3, Javascript, ES6, OO, PHP, Sass, Bootstrap, Git/GitHub, and Wordpress </strong><br></p>
 
 <h3>📱 Social </h3>
