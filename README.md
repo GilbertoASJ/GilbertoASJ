@@ -16,7 +16,7 @@
 [![https://portfolio-gsj.netlify.app/ Badge](https://img.shields.io/badge/-Portfólio-6633cc?style=flat-square&logo=DTube&logoColor=white&color=black&link=https://portfolio-gsj.vercel.app/)](https://portfolio-gsj.vercel.app/)
 
 </div>
-   
+   <br><br><br>
 <div>
  <a href="https://github.com/GilbertoASJ/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GilbertoASJ&show_icons=true&theme=dark" style"max-width: 100%;" />
