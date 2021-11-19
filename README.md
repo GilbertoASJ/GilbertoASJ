@@ -1,13 +1,13 @@
 <img align="right" src="Code typing-bro.png" max-width="400px" width="400px" align="right">
 
-<h2 align="left"> Hello, I'm Gilberto, welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+<h3 align="left"> Hello, I'm Gilberto, welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h3>
 
-<h3>💻 Front-End Developer</h3>
+<h4>💻 Front-End Developer</h4>
 
-- <p>✈️ 18y, expanding knowledge in Front-End and Frameworks,<br> I'm studying: <strong>ReactJs, PHP and Laravel</strong><br></p>
-- <p>👨‍💻 Skills: <strong>HTML5, CSS3, Javascript, ES6, OO, PHP, Sass, Bootstrap, Git/GitHub, and Wordpress </strong><br></p>
+- <p>✈️ 18y, expanding knowledge in Front-End and Frameworks,<br> I'm studying: <strong>ReactJs, PHP, PostgreSQL and Laravel</strong><br></p>
+- <p>👨‍💻 Skills: <strong>HTML5, CSS3, Javascript, ES6, OO, PHP, MySQL, Sass, Bootstrap, Git/GitHub, and Wordpress </strong><br></p>
 
-<h3>📱 Social </h3>
+<h4>📱 Social </h4>
 
 <div>
   
