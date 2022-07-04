@@ -4,7 +4,7 @@
 
 <h4>💻 Front-End Developer</h4>
 
-- <p>✈️ 19y, expanding knowledge in Front-End and Frameworks,<br> I'm studying: <strong>ReactJs, PHP, PostgreSQL and Laravel</strong><br></p>
+- <p>✈️ 19y, expanding knowledge in Front-End and Frameworks,<br> I'm studying: <strong>ReactJs, Firebase, PHP, PostgreSQL and Laravel</strong><br></p>
 - <p>👨‍💻 Skills: <strong>HTML5, CSS3, Javascript, ES6 to ES12, OO, PHP, MySQL, Sass, Bootstrap, Git/GitHub, and Wordpress </strong><br></p>
 
 <h4>📱 Social </h4>
