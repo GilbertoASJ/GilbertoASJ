@@ -19,7 +19,6 @@
    <br><br>
 <div>
  <a href="https://github.com/GilbertoASJ/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GilbertoASJ&show_icons=true&theme=dark" style"max-width: 100%;" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoASJ&layout=compact&theme=dark" style"max-width: 100%;" />
  </a>
 </div>
